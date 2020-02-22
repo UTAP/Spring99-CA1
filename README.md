@@ -1,5 +1,5 @@
 # Spring99-CA1
-Advanced Programing Course First Computer Assignment
+Advanced Programing Course's First Computer Assignment
 
 ## SarBaste
 
@@ -40,7 +40,7 @@ At first, you should make executable file from code.
 g++ --std=c++11 main.cpp -o sarbaste.out
 ```
 
-Then you can run this executable and perform input like this : 
+Then you can run this executable and perform input like this: 
 ```
 ./sarbaste.out
 encrypt/decrypt
@@ -61,4 +61,4 @@ simple
 Code and Project Description : 
 
 
-[Farzad Habibi](farzadhabibi.ir)
+[Farzad Habibi](http://farzadhabibi.ir)
